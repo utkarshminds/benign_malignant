@@ -1,1 +1,1 @@
-Skin-Cancer (Malignant vs. Benign) Detection using Deep-CNN and Hyperparameter tuning using keras-tuner
+Skin-Cancer (Malignant vs. Benign) Detection using machine learing with feature Extraction.
